@@ -14,7 +14,7 @@ This application requires [Node.js](https://nodejs.org/) v4+ to run.
 Clone the source code:
 
 ```sh
-$ git clone https://hub.jazz.net/git/lflorez/socialApp
+$ git clone https://github.com/pipeflo/socialApp.git
 $ npm install
 $ npm start
 ```
